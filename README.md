@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🚀 Data enthusiast with a knack for unraveling insights.<br>- 📊 Transforming raw data into actionable strategies.<br>- 🔍 Constantly exploring the realms of data science and analysis.<br>- 🌟 Dedicated to unlocking the secrets hidden within the data universe.
+🚀 Data enthusiast with a knack for unraveling insights.<br> 📊 Transforming raw data into actionable strategies.<br> 🔍 Constantly exploring the realms of data science and analysis.<br> 🌟 Dedicated to unlocking the secrets hidden within the data universe.
 
 
 # 💻 Tech Stack:
